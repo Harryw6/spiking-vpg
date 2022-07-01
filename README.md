@@ -1,2 +1,2 @@
 # spiking-vpg
-visual-pushing-grasping的SNN版本
+visual-pushing-grasping的SNN版本t
